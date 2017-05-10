@@ -1,1 +1,2 @@
-Home page 
+Home page
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet mi eu nisl sodales molestie. Proin venenatis sodales urna, et elementum nunc tincidunt eu. Quisque ante tortor, hendrerit sed ultrices ut, ultricies nec metus. Phasellus eget iaculis urna. Etiam est ligula, cursus a vehicula at, vulputate at ex. In euismod tempor convallis. Nunc vulputate tincidunt dictum
